@@ -13,4 +13,4 @@
 ![](https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/XD_image.png)
 ***
 ### 개발과정
-[이동](https://nam-ki-bok.github.io/categories/portfolio/)
+<a href="https://nam-ki-bok.github.io/categories/portfolio/" style="text-decoration:none" target="_blank">이동</a>
