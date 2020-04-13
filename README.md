@@ -7,10 +7,7 @@
   진행하며 막혔던 부분이나 중요한 부분 위주로 정리하겠습니다.
 
   ***
-
-  
-
 ![](https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/XD_image.png)
 ***
 ### 개발과정
-<a href="https://nam-ki-bok.github.io/categories/portfolio/" style="text-decoration:none" target="_blank">이동</a>
+[이동](https://nam-ki-bok.github.io/categories/portfolio/)
