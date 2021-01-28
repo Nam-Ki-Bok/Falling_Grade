@@ -6,9 +6,7 @@
 
 ***
 
-
-
-![](https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/XD_image.png)
+![image](https://user-images.githubusercontent.com/54533309/106146318-e1331f00-61b9-11eb-89d5-712e928cc3ea.png)
 
 ## 개요
 
@@ -35,8 +33,6 @@
 - If문, 변수, setVisible 메소드를 통해 상황에 맞는 버튼, 이미지 출력
 
 <img src="https://nam-ki-bok.github.io/assets/images/toy_project/Falling_1.png" style="zoom:35%;" />
-
-
 
 <img src="https://nam-ki-bok.github.io/assets/images/toy_project/Falling_2.png" style="zoom:35%;" />
 
@@ -217,6 +213,5 @@ public void run() {
 ```
 
 ## 플레이 영상
-GitHub README는 동영상 삽입 기능이 없다고 한다..<br>
-[[영상 바로 보기]](https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/FallingGradeInGame.mp4)<br>
-<a href="https://nam-ki-bok.github.io/fallinggrade/Falling_Grade_README/" style="color:#0FA678">[블로그 가서 보기]</a>
+[[BGM 같이 듣기]](https://user-images.githubusercontent.com/54533309/106145763-44708180-61b9-11eb-8bb1-cda742218ea6.mp4)<br>
+![FallingGradeInGame](https://user-images.githubusercontent.com/54533309/106149989-37a25c80-61be-11eb-99c5-fe6903512755.gif)
