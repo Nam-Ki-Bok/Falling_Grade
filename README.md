@@ -1,7 +1,5 @@
 # Falling Grade
 
-<a href="https://github.com/Nam-Ki-Bok/Falling_Grade" style="color:#0FA678">GitHub</a>
-
 🗒 하늘에서 학점이 떨어져요 🗒
 
 ***
