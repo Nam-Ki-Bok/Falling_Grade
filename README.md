@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Nam-Ki-Bok/Falling_Grade" style="color:#0FA678">GitHub</a>
 
-본 프로젝트는 2019년 2학년 2학기 Java Programming 팀 프로젝트 이다.
+🗒 하늘에서 학점이 떨어져요 🗒
 
 ***
 
